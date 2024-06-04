@@ -27,8 +27,8 @@ Soy un estudiante de psicología que también es apasionado por la ciencia de da
 
 - :computer: Actualmente me encuentro buscando formas de como seguir creciendo y aprendiendo en este mundo de la ciencia de datos que me apasiona.
 
-- ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-David-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/david-rosales-57590a297/) 
-
+- ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-David-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/david-rosales-57590a297/)
+- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-rosales-57590a297/)
 ----------------------------------------------------------
 
 ### :keyboard: 🧰 Tecnologías y herramientas: 
