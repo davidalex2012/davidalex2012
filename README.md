@@ -19,3 +19,6 @@ Hola, soy David Rosales, un estudiante de psicología que también es apasionado
 Actualmente me encuentro buscando formas de como seguir creciendo y aprendiendo en este mundo de la ciencia de datos que me apasiona. :computer:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=davidalex2012)](https://git.io/streak-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidalex2012)](https://github.com/anuraghazra/github-readme-stats)
