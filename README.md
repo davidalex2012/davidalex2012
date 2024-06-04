@@ -20,5 +20,4 @@ Actualmente me encuentro buscando formas de como seguir creciendo y aprendiendo 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=davidalex2012)](https://git.io/streak-stats)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidalex2012)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidalex2012&layout=compact)
