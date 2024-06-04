@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👤Sobre mi :
 Hola, soy David Rosales, un estudiante de psicología que también es apasionado por la ciencia de datos. En ambos el reconocimiento de patrones es una de las habilidades más importantes que permiten generar una visión más apropiada dependiendo de la situación como en la de los negocios y clientes. :star:
 
 - :books: Actualmente estoy en la parte final de mi curso de QA Data Scientist en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos al mercado. 
@@ -22,16 +24,19 @@ Hola, soy David Rosales, un estudiante de psicología que también es apasionado
 
 ----------------------------------------------------------
 
-### Tecnologías y herramientas: :keyboard: 🧰
+### :keyboard: 🧰 Tecnologías y herramientas: 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,sklearn,github,html,powershell,anaconda" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,sklearn,github,html,powershell,anaconda)](https://skillicons.dev)
+
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ------------------------------------------------------
-
+### 📊 Mis estadísticas :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=davidalex2012)](https://git.io/streak-stats)
 
