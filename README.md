@@ -1,7 +1,5 @@
 
-
-
-![github-header-image (1)](https://github.com/davidalex2012/davidalex2012/assets/160526885/7013e1dc-31a4-4aa8-ad2c-d39e75b484b0)
+![banner github](https://github.com/davidalex2012/davidalex2012/assets/160526885/677037f7-d29d-413e-a77f-ca4375212cae)
 
 ## Hola, soy David. ¡Mucho gusto! :owl:
 
